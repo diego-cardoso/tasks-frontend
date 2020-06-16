@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://github.com/diego-cardoso/tasks-frontend/blob/master/assets/logo.png" alt="logo" width="120">
+  <img src="https://github.com/diego-cardoso/tasks-frontend/blob/master/assets/logo-oficial.png" alt="logo" width="120">
 <br>
 App Tasks
 </h1>
