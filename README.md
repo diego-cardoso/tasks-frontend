@@ -14,18 +14,17 @@ App Tasks
 </p>
 
 [//]: # (Add your gifs/images here:)
-<div styles="text-align-last: center">
+<h1 align="center">
+<br>
   <img src="https://github.com/diego-cardoso/tasks-frontend/blob/master/App_Tasks.gif" alt="demo" height="425">
-  
-</div>
-
+<br>
+ </h1>
 <hr />
 
 ## Features
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in mobile development!
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
 - 💹 **Node Js** — A web framework for Node Js
 
