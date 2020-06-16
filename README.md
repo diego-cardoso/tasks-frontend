@@ -1,15 +1,9 @@
-# App Tasks 
-
-App gerenciador de tarefas
-
-![Aplicativo Tasks](https://github.com/diego-cardoso/tasks-frontend/blob/master/App_Tasks.gif)
-
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="https://github.com/diego-cardoso/tasks-frontend/blob/master/assets/logo.png" alt="logo" width="120">
 <br>
 <br>
-YOUR_PROJECT_NAME
+App Tasks
 </h1>
 
 <p align="center">A little description about your project</p>
@@ -22,8 +16,8 @@ YOUR_PROJECT_NAME
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
+  <img src="https://github.com/diego-cardoso/tasks-frontend/blob/master/App_Tasks.gif" alt="demo" height="425">
+  <img src="https://github.com/diego-cardoso/tasks-frontend/blob/master/App_Tasks.gif" alt="demo" height="425">
 </div>
 
 <hr />
