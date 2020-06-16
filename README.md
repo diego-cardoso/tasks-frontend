@@ -21,19 +21,20 @@ App Tasks
  </h1>
 <hr />
 
-## Features
+## Recursos
 [//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
+Este aplicativo apresenta todas as mais recentes ferramentas no desenvolvimento mobile!
 
-- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — A web framework for Node Js
+- ⚛️ **React Native** — Biblioteca JavaScript para criar aplicações nativas para Android e iOS.
+- 💹 **Node Js** —  interpretador de JavaScript assíncrono
+- **PostgreSQL** - gerenciador de banco de dados objeto relacional
 
 ## Getting started
 
-Describe here the way to use/install your project
+O usuário cria as tarefas e pode organizá-las entre dia, semanae e mês de forma intuitiva e descomplicada.
 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+Este projeto está licenciado sob a licença MIT - consulte o [LICENSE](https://opensource.org/licenses/MIT).
 
