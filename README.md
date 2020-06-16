@@ -2,11 +2,10 @@
 <br>
   <img src="https://github.com/diego-cardoso/tasks-frontend/blob/master/assets/logo.png" alt="logo" width="120">
 <br>
-<br>
 App Tasks
 </h1>
 
-<p align="center">A little description about your project</p>
+<p align="center">Aplicativo gerenciados de tarefas</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -15,9 +14,9 @@ App Tasks
 </p>
 
 [//]: # (Add your gifs/images here:)
-<div>
+<div styles="text-align-last: center">
   <img src="https://github.com/diego-cardoso/tasks-frontend/blob/master/App_Tasks.gif" alt="demo" height="425">
-  <img src="https://github.com/diego-cardoso/tasks-frontend/blob/master/App_Tasks.gif" alt="demo" height="425">
+  
 </div>
 
 <hr />
