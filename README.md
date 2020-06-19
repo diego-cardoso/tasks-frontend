@@ -27,7 +27,7 @@ Este aplicativo apresenta todas as mais recentes ferramentas no desenvolvimento 
 
 - ⚛️ **React Native** — Biblioteca JavaScript para criar aplicações nativas para Android e iOS.
 - 💹 **Node Js** —  interpretador de JavaScript assíncrono
-- **PostgreSQL** - gerenciador de banco de dados objeto relacional
+- 🔢 **PostgreSQL** - gerenciador de banco de dados objeto relacional
 
 ## Getting started
 
